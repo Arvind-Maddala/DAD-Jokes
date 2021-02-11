@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DAD-Jokes/static/css/main.eb991090.chunk.css",
+    "main.js": "/DAD-Jokes/static/js/main.fb11a489.chunk.js",
+    "main.js.map": "/DAD-Jokes/static/js/main.fb11a489.chunk.js.map",
+    "runtime-main.js": "/DAD-Jokes/static/js/runtime-main.8480cc77.js",
+    "runtime-main.js.map": "/DAD-Jokes/static/js/runtime-main.8480cc77.js.map",
+    "static/js/2.9d7b053d.chunk.js": "/DAD-Jokes/static/js/2.9d7b053d.chunk.js",
+    "static/js/2.9d7b053d.chunk.js.map": "/DAD-Jokes/static/js/2.9d7b053d.chunk.js.map",
+    "static/js/3.053b178f.chunk.js": "/DAD-Jokes/static/js/3.053b178f.chunk.js",
+    "static/js/3.053b178f.chunk.js.map": "/DAD-Jokes/static/js/3.053b178f.chunk.js.map",
+    "index.html": "/DAD-Jokes/index.html",
+    "static/css/main.eb991090.chunk.css.map": "/DAD-Jokes/static/css/main.eb991090.chunk.css.map",
+    "static/js/2.9d7b053d.chunk.js.LICENSE.txt": "/DAD-Jokes/static/js/2.9d7b053d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8480cc77.js",
+    "static/js/2.9d7b053d.chunk.js",
+    "static/css/main.eb991090.chunk.css",
+    "static/js/main.fb11a489.chunk.js"
+  ]
+}
